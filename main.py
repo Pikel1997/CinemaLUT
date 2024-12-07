@@ -176,5 +176,5 @@ def video_to_lut(video_path, output_lut='custom_video_lut.cube'):
 # Example usage
 if __name__ == "__main__":
     # Replace with your video path
-    video_path = "./videoplayback (1).mp4"
+    video_path = "path-to-your-file.mp4"
     video_to_lut(video_path)
