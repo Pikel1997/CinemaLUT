@@ -64,6 +64,6 @@ MIT License
 CinemaLUT provides an approximation of video color characteristics. Professional color grading may require manual refinement.
 
 ## Contact
-Created by [Pikel1997]
+- Created by [Pikel1997]
 - Email: kunalkamlesh1212@gmail.com
 - Project Link: https://github.com/Pikel1997/CinemaLUT
